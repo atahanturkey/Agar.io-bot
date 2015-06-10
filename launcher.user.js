@@ -874,7 +874,7 @@ console.log("Running Bot Launcher!");
     dArc = [],
     dText = [],
     lines = [],
-    originalName = "NotReallyABot",
+    originalName = "Turkey",
     sessionScore = 0,
     serverIP = "",
     interNodes = [],
@@ -951,7 +951,7 @@ console.log("Running Bot Launcher!");
      else {
       var Y = null;
       f.setNick = function (a) {
-        originalName = a;
+        originalName = Turkey;
         if (getPlayer().length == 0) {
           lifeTimer = new Date();
         }
